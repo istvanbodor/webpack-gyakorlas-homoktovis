@@ -1,0 +1,44 @@
+body{
+    background-image: url(/images/hatter.png);
+}
+#cim{
+    background-color: orange;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+    height: 200px;
+    margin-bottom: 30px;
+    
+}
+#cim > h1{
+    font-size: 60px;
+}
+#navbar
+{
+background-color: white;
+margin: auto;
+list-style: none;
+margin-bottom: 30px;
+
+}
+nav > li{
+    margin: auto;
+    
+    
+}
+li > a{
+    color: orange;
+    
+}
+#close {
+    float:right;
+    display:inline-block;
+    padding:2px 5px;
+    background:#ccc;
+}
+
+#grat{
+    background-color: orange;
+
+
+}
