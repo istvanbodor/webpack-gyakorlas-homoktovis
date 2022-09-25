@@ -124,3 +124,8 @@ td > p{
 #narlink{
     color: orange;
 }
+#tabb{
+   margin: auto;
+   border: 1px solid ;
+    width: 90%;
+}
