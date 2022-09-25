@@ -74,3 +74,38 @@ li > a{
     height: 260px;
     padding-top: 30px;
 }
+#csodszov{
+    background-color: orange;
+    
+}
+#csodtart{
+    background-color: white;
+    
+}
+#elsoo{
+    width: 50%;
+}
+table{
+    width: 100%;
+    
+}
+.narancs{
+    background-color: orange;
+}
+.feher{
+    background-color: white;
+}
+.elso{
+    width: 48%;
+    
+}
+.masodik{
+    width: 48%;
+    
+}
+#talbazat{
+    padding-top: 10px;
+}
+td > p{
+    text-align: justify;
+}
