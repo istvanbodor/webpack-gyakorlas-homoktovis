@@ -109,3 +109,18 @@ table{
 td > p{
     text-align: justify;
 }
+#ellenjavaslat{
+    margin-top: 10px;
+}
+#el{
+    background-color: orange;
+}
+#mass{
+    background-color: white;
+}
+#informaciok{
+    margin-top: 10px;
+}
+#narlink{
+    color: orange;
+}
