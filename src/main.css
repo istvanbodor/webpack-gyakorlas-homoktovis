@@ -46,3 +46,31 @@ li > a{
     display: inline-block;
 
 }
+#fhszv{
+    background-color: white;
+    
+}
+#bokorkep{
+    background-color: lightgray;
+
+
+}
+#bok{
+    padding-left: 240px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#bokortarto{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+#fh{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.keps{
+    width: 255px;
+    height: 260px;
+    padding-top: 30px;
+}
